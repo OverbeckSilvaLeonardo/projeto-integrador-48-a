@@ -11,13 +11,15 @@ O diagrama de casos de uso nos mostra quais são os atores principais identifica
 
 O arquivo diagrama-casos-uso.png foi criado durante a análise do projeto e demonstra como é feita a representação das funcionalidade.
 
+---
+
 ### Diagrama de classes
 
 O diagrama de classes é uma das primeiras etapas do processo e ilustra como as entidades que farão parte do sistema interagem umas com as outras.
 
 O diagrama criado para este projeto pode ser encontrado na raiz do repositório, sob o nome diagrama-classes.png.
 
-
+---
 
 ### Protótipo
 
@@ -25,6 +27,10 @@ Na pasta protótipo, serão encontrados os modelos para as telas desenhadas ilus
 base no que foi discutido, acordado e documentado durante o processo de análise.
 
 Cada tela está nomeada a fim de facilitar a compreenção de qual funcionalidade ela representa.
+
+---
+
+O projeto finalizado, entregue ao final da disciplina, também pode ser encontrado no repositório no formato PDF.
 
 ### Membros
 
