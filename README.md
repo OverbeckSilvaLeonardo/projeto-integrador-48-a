@@ -26,4 +26,13 @@ base no que foi discutido, acordado e documentado durante o processo de análise
 
 Cada tela está nomeada a fim de facilitar a compreenção de qual funcionalidade ela representa.
 
+### Membros
 
+JOAO VITOR NERY SILVA<br>
+LEONARDO OVERBECK DA SILVA<br>
+LUAN DE SOUZA NUNES<br>
+LUCAS DA SILVA OLIVEIRA<br>
+MARCIO VINICIUS MACHADO DA SILVA<br>
+MARIANA GOMES RODRIGUES<br>
+NICOLE DE SOUZA CUNHA<br>
+PABLO RODRIGUES ALVES FERREIRA
